@@ -1,0 +1,19 @@
+{
+  "nav": { "games": "Jogos", "news": "Notícias", "about": "Sobre", "contact": "Contato" },
+  "home": { "learnMore": "Saiba mais", "latestNews": "Últimas Notícias", "seeAll": "Ver todas", "ourGames": "Nossos Jogos" },
+  "game": {
+    "playOn": "Jogar no {platform}",
+    "presskit": "Baixar Press Kit",
+    "presskitUpdated": "Atualizado em {date}",
+    "platforms": "Plataformas",
+    "releaseDate": "Lançamento",
+    "screenshots": "Screenshots"
+  },
+  "news": { "readMore": "Leia mais", "postedOn": "Publicado em {date}" },
+  "errors": {
+    "notFound": "Página não encontrada.",
+    "apiError": "Erro ao carregar conteúdo. Tente novamente.",
+    "rateLimited": "Muitas requisições. Aguarde {seconds} segundos."
+  },
+  "footer": { "rights": "Todos os direitos reservados.", "newsletter": "Inscreva-se na newsletter" }
+}

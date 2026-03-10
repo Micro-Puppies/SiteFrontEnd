@@ -1,0 +1,19 @@
+{
+  "nav": { "games": "Games", "news": "News", "about": "About", "contact": "Contact" },
+  "home": { "learnMore": "Learn more", "latestNews": "Latest News", "seeAll": "See all", "ourGames": "Our Games" },
+  "game": {
+    "playOn": "Play on {platform}",
+    "presskit": "Download Press Kit",
+    "presskitUpdated": "Updated on {date}",
+    "platforms": "Platforms",
+    "releaseDate": "Release Date",
+    "screenshots": "Screenshots"
+  },
+  "news": { "readMore": "Read more", "postedOn": "Posted on {date}" },
+  "errors": {
+    "notFound": "Page not found.",
+    "apiError": "Failed to load content. Please try again.",
+    "rateLimited": "Too many requests. Wait {seconds} seconds."
+  },
+  "footer": { "rights": "All rights reserved.", "newsletter": "Subscribe to newsletter" }
+}
